@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.3/lucky8-v1.0.3.apk",
-  "notes": "Print Queue UI polish. Adds printer status overview, clearer job cards, status pills, and better print actions.",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.4/lucky8-v1.0.4.apk",
+  "notes": "Fixes Settings and other two-column screens where multiple cards could overlap on tablet layouts.",
   "required": false,
-  "publishedAt": "2026-05-23T21:25:00+09:00"
+  "publishedAt": "2026-05-23T21:40:00+09:00"
 }
