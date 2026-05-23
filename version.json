@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.1/lucky8-v1.0.1.apk",
-  "notes": "Initial Lucky 8 update feed. Includes current staff sync, scanner, printer, backup, and UI fixes.",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.2/lucky8-v1.0.2.apk",
+  "notes": "Activity Log UI polish for update testing. Adds overview stats and clearer audit cards.",
   "required": false,
-  "publishedAt": "2026-05-23T20:20:00+09:00"
+  "publishedAt": "2026-05-23T20:45:00+09:00"
 }
