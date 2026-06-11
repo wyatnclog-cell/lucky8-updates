@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.7/lucky8-v1.0.7.apk",
-  "notes": "Add Table now requires the Admin PIN. New shops default tax percent to 0%. Checkout prints the first invoice only and asks before printing the shop copy.",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.8/lucky8-v1.0.8.apk",
+  "notes": "QR session tickets now print the first customer copy only and ask before printing the shop copy. Applies to new sessions, added members, and manual member QR reprints.",
   "required": false,
-  "publishedAt": "2026-06-01T01:25:00+09:00"
+  "publishedAt": "2026-06-11T14:52:00+09:00"
 }
