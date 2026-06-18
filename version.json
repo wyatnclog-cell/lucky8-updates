@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.8/lucky8-v1.0.8.apk",
-  "notes": "QR session tickets now print the first customer copy only and ask before printing the shop copy. Applies to new sessions, added members, and manual member QR reprints.",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/wyatnclog-cell/lucky8-updates/releases/download/v1.0.9/lucky8-v1.0.9.apk",
+  "notes": "Adds safe startup recovery and trims heavy runtime history so large saved data, print queues, activity logs, and sync logs cannot stop the app from opening.",
   "required": false,
-  "publishedAt": "2026-06-11T14:52:00+09:00"
+  "publishedAt": "2026-06-19T00:27:00+09:00"
 }
